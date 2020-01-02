@@ -29,7 +29,6 @@ body {
 #draggable:hover {
     background-color: rgba(62, 62, 62, 0.5);
     /*text-overflow: clip;*/
-    
 }
 
 .icon-bar a {
@@ -57,3 +56,10 @@ body {
     display: none;
 }
 
+.iconArtist {
+    color: rgba(255, 255, 255, 0.13);
+    font-size: 120%;
+    position: absolute;
+    bottom: 5%;
+    left: 48%;
+}
