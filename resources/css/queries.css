@@ -1,0 +1,47 @@
+@media only screen and (max-width:3840px) {
+    .icon-bar-mobile {
+        display: none
+    }
+}
+
+@media only screen and (max-width:1199px) {
+    .icon-bar {
+        display: none
+    }
+
+    .icon-bar-mobile {
+        display: block;
+        position: fixed;
+        bottom: 0;
+        border-top: 1px solid #e6e6e6;
+        text-align: center;
+        background-color: #000
+    }
+}
+
+@media only screen and (max-width:1119px) {
+    .icon-bar {
+        display: none
+    }
+
+    .icon-bar-mobile {
+        display: block;
+        position: fixed;
+        bottom: 0;
+        border-top: 1px solid #e6e6e6;
+        text-align: center;
+        background-color: #000
+    }
+
+    .icon-bar-mobile img {
+        padding: 5%
+    }
+
+    body {
+        background-image: url("img/backworks.jpg");
+    }
+
+    img {
+        background-color: #202020
+    }
+}

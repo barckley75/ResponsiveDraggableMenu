@@ -1,2 +1,2 @@
 # ResponsiveDraggableMenu
-A cool style draggable menu with artistic icons
+A cool style draggable menu with artistic icons.
